@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-🎓 I'm a **7th Semester Data Science student** at the University of Central Punjab, Lahore — passionate about turning raw data into real insights.
+🎓 I'm a **8th Semester Data Science student** at the University of Central Punjab, Lahore — passionate about turning raw data into real insights.
 
 💼 I've gained hands-on industry experience as a **Strategy & Analytics Intern at Bank Alfalah**, where I worked on customer segmentation, behavior analysis, and data-driven decision-making.
 
