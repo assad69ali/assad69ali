@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Asad Ali 👋
-### Data Science Student | Python · PySpark · SQL · Power BI · NLP
+### Data Science | Python · PySpark · SQL · Power BI · NLP
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&lines=Data+Science+Student+%40+UCP+Lahore;Big+Data+%7C+NLP+%7C+RAG+%7C+Streaming;Strategy+%26+Analytics+Intern+%40+Bank+Alfalah;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00EEFF&center=true&vCenter=true&width=600&lines=Data+Science+%40+UCP+Lahore;Big+Data+%7C+NLP+%7C+RAG+%7C+Streaming;Strategy+%26+Analytics+Intern+%40+Bank+Alfalah;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assad69ali)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:assad69ali@gmail.com)
@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-🎓 I'm a **8th Semester Data Science student** at the University of Central Punjab, Lahore — passionate about turning raw data into real insights.
+🎓 I'm pursuing **Data Science** at the University of Central Punjab, Lahore — passionate about turning raw data into real insights.
 
 💼 I've gained hands-on industry experience as a **Strategy & Analytics Intern at Bank Alfalah**, where I worked on customer segmentation, behavior analysis, and data-driven decision-making.
 
